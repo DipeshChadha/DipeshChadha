@@ -7,10 +7,11 @@
   <img src="https://komarev.com/ghpvc/?username=dipeshchadha&label=Profile%20views&color=0e75b6&style=flat" alt="dipeshchadha" />
 </p>
 
-- 🌱 I’m currently learning **SQL, Python (Pandas, NumPy, Matplotlib)**, and exploring **data analytics** and **cloud computing concepts**.  
+- 🌱 I’m currently learning **SQL, Python (Pandas, NumPy, Matplotlib)**, and exploring **data analytics** and **cloud computing concepts**.
+  
 - 💬 Ask me about **Python, SQL, C++, Data Structures & Algorithms, HTML, CSS, and basic JavaScript**.  
 
-- 💬 Ask me about **HTML, CSS, JavaScript, C++**, **Python**
+
 
 - 📫 How to reach me: **chadhadipesh@gmail.com**
 
